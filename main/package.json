@@ -191,6 +191,7 @@
     "raw-body": "^2.4.0",
     "rc": "^1.2.8",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "^5.0.1",
     "readable-stream": "^2.3.7",
     "readdirp": "^3.5.0",
